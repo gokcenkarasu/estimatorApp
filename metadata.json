@@ -1,0 +1,5 @@
+{
+  "name": "SoftEstimator",
+  "description": "Yapay zeka destekli yazılım projesi maliyet ve süre tahminleme aracı. Kullanıcı yönetimi ve veri tabanı simülasyonu içerir.",
+  "requestFramePermissions": []
+}
